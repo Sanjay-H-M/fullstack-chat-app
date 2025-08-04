@@ -69,25 +69,25 @@ A fully responsive, theme-customizable real-time chat application built using mo
    ```bash
    git clone https://github.com/your-username/chat-app.git
    cd chat-app
-bash```
+```
    
 2. Install dependencies:
 
  ```bash
 npm install
-bash```
+```
 
 3. Start the development server:
 
  ```bash
 npm run dev
-bash```
+```
 
 4. Visit
 
 ```bash
 http://localhost:3000
-bash```
+```
 
 ---
 
@@ -103,7 +103,7 @@ chat-app/
 ├── utils/
 └── README.md
 
-bash```
+```
 
 ---
 
