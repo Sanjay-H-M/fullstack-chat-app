@@ -17,43 +17,39 @@ A fully responsive, theme-customizable real-time chat application built using mo
 ---
 
 ## 📸 Preview Screens
-
----
 ### 🔐 Login Page
-
-<img width="1365" height="631" alt="Screenshot 2025-08-04 210100" src="https://github.com/user-attachments/assets/ae776d81-f7d5-4d43-a9b1-ffbf9718d16e" />
+<img src="https://github.com/user-attachments/assets/ae776d81-f7d5-4d43-a9b1-ffbf9718d16e" alt="Login Page" width="600"/>
 
 ---
 
 ### 👤 Profile Page
-<img width="1347" height="630" alt="Screenshot 2025-08-04 210459" src="https://github.com/user-attachments/assets/6554b6ef-c958-4ef4-80a8-71efb2c269e8" />
+<img src="https://github.com/user-attachments/assets/6554b6ef-c958-4ef4-80a8-71efb2c269e8" alt="Profile Page" width="600"/>
 
 ---
 
 ### 🎨 Theme Selection
-<img width="1345" height="477" alt="Screenshot 2025-08-04 210417" src="https://github.com/user-attachments/assets/543911a8-758c-42eb-8284-3998bfd02410" />
+<img src="https://github.com/user-attachments/assets/543911a8-758c-42eb-8284-3998bfd02410" alt="Theme Selection" width="600"/>
 
 ---
 
 ### 💬 Live Chat Preview
-<img width="1155" height="499" alt="Screenshot 2025-08-04 210341" src="https://github.com/user-attachments/assets/dd3095bc-c3b2-4044-b600-7bc47caa1f0a" />
+<img src="https://github.com/user-attachments/assets/dd3095bc-c3b2-4044-b600-7bc47caa1f0a" alt="Live Chat Preview" width="600"/>
 
 ---
 
 ### 🧪 Theme Preview Section
-<img width="1344" height="629" alt="Screenshot 2025-08-04 210446" src="https://github.com/user-attachments/assets/0466b219-34d8-4d76-8930-f8cf880c5a34" />
+<img src="https://github.com/user-attachments/assets/0466b219-34d8-4d76-8930-f8cf880c5a34" alt="Theme Preview Section" width="600"/>
 
 ---
 
 ### 📱 Chat List Interface
-<img width="1151" height="502" alt="Screenshot 2025-08-04 210356" src="https://github.com/user-attachments/assets/af428d30-13ee-4342-8e5b-665589ba6fef" />
+<img src="https://github.com/user-attachments/assets/af428d30-13ee-4342-8e5b-665589ba6fef" alt="Chat List Interface" width="600"/>
 
 ---
 
 ### 🧑‍🤝‍🧑 Chat Window
-<img width="1155" height="499" alt="Screenshot 2025-08-04 210341" src="https://github.com/user-attachments/assets/be0e12c2-7593-4aeb-a750-adb0d5caa9d0" />
+<img src="https://github.com/user-attachments/assets/be0e12c2-7593-4aeb-a750-adb0d5caa9d0" alt="Chat Window" width="600"/>
 
----
 
 ## 🛠️ Tech Stack
 
