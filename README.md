@@ -68,7 +68,7 @@ A fully responsive, theme-customizable real-time chat application built using mo
 1. Clone the repository:
 
 ```
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/Sanjay-H-M/fullstack-chat-app
    cd chat-app
 ```
    
