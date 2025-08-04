@@ -95,14 +95,35 @@ A fully responsive, theme-customizable real-time chat application built using mo
 ###   📂 Folder Structure
 
 ```bash
+   
+   fullstack-chat-app/
+   ├── frontend/             # React-based UI & theme components
+   │   ├── public/
+   │   ├── src/
+   │   │   ├── components/   # UI components like ChatList, ChatWindow, Profile, ThemeSelector
+   │   │   ├── pages/        # Routes or main page views
+   │   │   ├── contexts/     # Zustand or Redux state management contexts
+   │   │   ├── assets/       # Images, icons, styles
+   │   │   ├── utils/        # Helper functions, API handlers
+   │   │   └── index.js / App.js
+   │   ├── package.json
+   │   └── tailwind.config.js (or similar)
+   │
+   ├── backend/              # Server-side logic (Node.js, Express, Socket.io)
+   │   ├── controllers/      # Route logic (auth, messages)
+   │   ├── models/           # Database schemas (User, Message)
+   │   ├── routes/           # Express routes definition
+   │   ├── utils/            # Middleware, error handlers, auth helpers
+   │   ├── socket/           # Socket.io event handlers
+   │   ├── config/           # Env config, DB connection
+   │   └── server.js / index.js
+   │   ├── package.json
+   │   └── .env.example
+   │
+   ├── .gitignore
+   ├── README.md
+   └── LICENSE
 
-   chat-app/
-   ├── components/
-   ├── pages/
-   ├── public/
-   ├── styles/
-   ├── utils/
-   └── README.md
 
 ```
 
