@@ -39,16 +39,17 @@ A fully responsive, theme-customizable real-time chat application built using mo
 
 ### 🧪 Theme Preview Section
 
-<img width="1345" height="477" alt="Screenshot 2025-08-04 210417" src="https://github.com/user-attachments/assets/59c3c05e-1f43-4cc5-864b-7c70de12c69b" />
+<img width="1344" height="629" alt="Screenshot 2025-08-04 210446" src="https://github.com/user-attachments/assets/0466b219-34d8-4d76-8930-f8cf880c5a34" />
 
 
 ### 📱 Chat List Interface
 
-<img width="1344" height="629" alt="Screenshot 2025-08-04 210446" src="https://github.com/user-attachments/assets/0466b219-34d8-4d76-8930-f8cf880c5a34" />
+<img width="1151" height="502" alt="Screenshot 2025-08-04 210356" src="https://github.com/user-attachments/assets/af428d30-13ee-4342-8e5b-665589ba6fef" />
+
 
 ### 🧑‍🤝‍🧑 Chat Window
 
-<img width="1151" height="502" alt="Screenshot 2025-08-04 210356" src="https://github.com/user-attachments/assets/af428d30-13ee-4342-8e5b-665589ba6fef" />
+<img width="1155" height="499" alt="Screenshot 2025-08-04 210341" src="https://github.com/user-attachments/assets/be0e12c2-7593-4aeb-a750-adb0d5caa9d0" />
 
 
 ---
@@ -61,25 +62,39 @@ A fully responsive, theme-customizable real-time chat application built using mo
 - **Hosting**: Render / Vercel / Netlify
 
 ---
-
 ## 🧑‍💻 How to Run Locally
 
 1. Clone the repository:
 
+   ```bash
    git clone https://github.com/your-username/chat-app.git
    cd chat-app
-Install dependencies:
+bash```
+   
+2. Install dependencies:
 
+ ```bash
 npm install
-Start the development server:
+bash```
 
+3. Start the development server:
+
+ ```bash
 npm run dev
-Visit http://localhost:3000
+bash```
+
+4. Visit
+
+```bash
+http://localhost:3000
+bash```
+
+---
 
 📂 Folder Structure
-cpp
-Copy
-Edit
+
+```bash
+
 chat-app/
 ├── components/
 ├── pages/
@@ -87,10 +102,15 @@ chat-app/
 ├── styles/
 ├── utils/
 └── README.md
+
+bash```
+
+---
+
 📧 Contact
 Feel free to reach out for feedback, suggestions, or collaborations!
 
-Made with ❤️ by Sanjay
+---
 
 Let me know if you want to:
 - Add live link (Render, Vercel, Netlify)
