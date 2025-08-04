@@ -74,19 +74,19 @@ A fully responsive, theme-customizable real-time chat application built using mo
    
 2. Install dependencies:
 
- ```bash
+    ```bash
    npm install
 ```
 
 3. Start the development server:
 
- ```bash
+    ```bash
    npm run dev
 ```
 
 4. Visit
 
-```bash
+   ```bash
    http://localhost:3000
 ```
 
