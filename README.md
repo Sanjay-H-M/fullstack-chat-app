@@ -2,7 +2,7 @@
 
 A fully responsive, theme-customizable real-time chat application built using modern web technologies. Users can chat with others, update their profiles, and personalize their experience with various themes.
 
-🌐 **Live Demo**: 👉 [Click here to try it now](https://fullstack-chat-app-1-ylw6.onrender.com/)  
+🌐 **Live Demo**: 👉 [Click here to try it now](https://chat-app-xte9.onrender.com)  
 
 ---
 
